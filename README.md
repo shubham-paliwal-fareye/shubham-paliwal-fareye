@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Javascript, Angular, Java**
 
-- 📫 How to reach me **shubhampaliwal.devs@gmail.com**
+- 📫 How to reach me **shubham.paliwal@getfareye.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
